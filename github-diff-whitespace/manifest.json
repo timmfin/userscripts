@@ -10,6 +10,9 @@
     "js": [ "github-diff-whitespace.js" ],
     "matches": [ "https://github.com/*/commit/*",
                  "https://github.com/*/compare/*",
-                 "https://github.com/*/pull/*" ]
+                 "https://github.com/*/pull/*",
+                 "https://git.hubteam.com/*/commit/*",
+                 "https://git.hubteam.com/*/compare/*",
+                 "https://git.hubteam.com/*/pull/*" ]
   } ]
 }
