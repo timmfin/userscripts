@@ -20,6 +20,13 @@ Installation
 Chrome:
  - install from [Chrome Web Store](https://chrome.google.com/webstore/detail/github-diff-whitespace/lhbcdehjihmbiafeodkfnbndleijnnhp)
 
+Chrome (manual):
+
+* go to `chrome://chrome/extensions/`
+* toggle `Developer mode`
+* click `Load unpacked extension`
+
+
 Firefox with Greasemonkey:
  - install from [userscripts.org](http://userscripts.org/scripts/show/137968)
 
